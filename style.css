@@ -1,0 +1,50 @@
+body {
+    background-color: hsl(0, 0%, 8%);
+    font-family: Inter;
+    padding: 10rem;
+}
+
+.content {
+    background-color: hsl(0, 0%, 12%);
+    padding: 2rem;
+    border-radius: 20px;
+    text-align: center;
+    max-width: 20rem;
+    margin: auto;
+}
+
+img {
+    max-width: 50%;
+    border-radius: 100%;
+}
+
+.name {
+   color: hsl(0, 0%, 100%);
+   font-weight: 600;
+}
+
+.location {
+    color: hsl(75, 94%, 57%);
+    font-weight: 400;
+}
+
+.caption {
+    color: hsl(0, 0%, 100%);
+}
+
+button {
+    background-color: hsl(0, 0%, 20%);
+    color: white;
+    font-weight: 700;
+    border-radius: 10px;
+    border: none;
+    padding: 10px 15px;
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+    margin: 10px;
+}
+
+p {
+    font-size: 14px;
+}
